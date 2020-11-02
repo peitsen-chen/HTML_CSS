@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>期末作業</title>
+<link href="css/日本東北陸.css" rel="stylesheet" type="text/css" /><link href="css/超連結.css" rel="stylesheet" type="text/css" /></head>
+
+<body><div class="wrap">
+<div class="header"><p class="header">~日本東北陸~</p>
+<a href="上高地.html" target="_self">上高地</a>
+<a href="金鱗湖.html" target="_self" class="超連結">金鱗湖</a>
+<img src="images/map.gif" width="700" height="700" /> 
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>上高地</title><link href="css/上高地.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body><div class="wrap">
+<div class="header">
+<a href="期末作業.html" target="_self">期末作業</a>
+<a href="金鱗湖.html" target="_self">金鱗湖</a>
+<p>~上高地 かみこうち~</p>
+<img src="images/subtop_back.jpg" width="1000" height="500" /></div>
+		<div class="content"><p>日本長野縣西部的飛驒山脈南部梓川上游的旅遊勝地,是中部山嶽國立公園的一部分，是囯有文化財產被指定為特別名勝，特別天然記念物。這裡有很多溫泉，也是攀登穗高岳和槍岳時的登山基地。</p>
+        <p>上高地的名字是從「神垣內」的平假名「かみこうち」而來。「神垣內」是指穗高神社。在穗高神社奧宮和明神池有祭祀穗高岳神降臨的傳統活動。</p></div>
+        
+  <div class="footer"><p>上高地是飛驒山脈的山谷,是梓川將焼岳火山群的白谷山噴發後的岩石沖積形成的地形,這裡還有日本獼猴常年生息</p>
+  <span class="content"></span></div>
+</div>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>金鱗湖</title>
+<link href="css/金鱗湖.css" rel="stylesheet" type="text/css" /></head>
+
+<body><div class="wrap">
+<div class="header">
+<a href="期末作業.html" target="_self">期末作業</a>
+<a href="上高地.html" target="_self">上高地</a>
+<p class="header">~金鱗湖きんりんこ~</p>
+<img src="images/1470924024-2985149061_n.jpg" width="600" height="401" />
+<div class="content"><p>金鱗湖是位於日本大分縣由布市湯布院町地區由布院溫泉旁的一個水池，面積0.8公頃，週長400公尺。</p>
+        <p>由於在早晨池面常出現晨霧，成為代表由布院溫泉的景觀之一。</p></div>
+        
+<div class="footer"><p>由於位於由布岳山麓，因此也有「岳下之池」、「岳下池」的名稱；在1884年儒家學者毛利空桑在此見到夕陽照射反射出像魚鱗的金色光影，便取了「金鱗湖」的名稱。
+  <span class="content"></span></div>
+  <span class="footer"></span>
+
+</body>
+</html>
